@@ -1,0 +1,5 @@
+from lesson_header import *
+
+# At this point I am planning on making my robot detect each cup independently and move accordingly depending on the cup detected.
+cup = 0
+if cup_1 == True
