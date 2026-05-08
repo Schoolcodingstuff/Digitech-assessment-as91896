@@ -11,4 +11,4 @@ elif cup_3 == True:
 elif cup_4 == True:
  moves.right
 else
- move.forward (1)
+ moves.forward (1)
