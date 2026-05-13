@@ -20,8 +20,8 @@ while cups < 4:
   moves.move_right(1.5)
   cups += 1
  elif  dict_decision[cups] == "left":
-  moves.move_left(2)
+  moves.move_left(1.5)
   cups += 1 
 
-moves.forward(2)
+moves.forward(3)
 print("Finished")
