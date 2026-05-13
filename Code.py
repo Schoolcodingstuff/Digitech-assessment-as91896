@@ -9,16 +9,16 @@ while cups < 4:
  print(f"distance {distance_cm} cups {cups}")
  if distance_cm > 15:
   moves.forward(0.3)
- elif cups == 1:
+ elif cups == 0:
   moves.move_right(1)
   cups += 1
- elif cups == 2:
+ elif cups == 1:
   moves.move_left(1)
   cups += 1 
- elif cups == 3:
+ elif cups == 2:
   moves.move_right(1)
   cups += 1
- elif cups == 4:
+ elif cups == 3:
   moves.move_left(1)
   cups += 1
 
