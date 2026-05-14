@@ -1,6 +1,6 @@
 from lesson_header import *
 
-#The basics are done, I'm now going to start on improvements.
+#I believe I am now mostly finished, just have to do some dictionary stuff.
  
 cups = 0
 #Implemented the dictionary.
