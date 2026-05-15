@@ -1,5 +1,5 @@
 from lesson_header import *
- 
+
 cups = 0
 
 dict_decision = {
